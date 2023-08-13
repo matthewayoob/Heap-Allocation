@@ -1,5 +1,6 @@
 /* File: explicit.c 
  * Name: Matthew Louis Ayoob
+ * This Code should not be reproduced per Stanford Honor Code, shared for hiring team. 
  * -------------------------
  *
  * This file represents an implementation of an
